@@ -2,7 +2,7 @@
   "name": "monsters",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ekhlusov.github.io/udemy-courses-react-monsters",
+  "homepage": "https://ekhlusov.github.io/udemy-courses-react-monsters/",
   "dependencies": {
     "gh-pages": "^2.1.1",
     "react": "^16.9.0",
