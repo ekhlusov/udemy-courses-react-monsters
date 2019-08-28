@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/udemy-courses-react-monsters/static/css/main.a2cf1a21.chunk.css",
+    "main.js": "/udemy-courses-react-monsters/static/js/main.8e9eccb5.chunk.js",
+    "main.js.map": "/udemy-courses-react-monsters/static/js/main.8e9eccb5.chunk.js.map",
+    "runtime~main.js": "/udemy-courses-react-monsters/static/js/runtime~main.8a0c872e.js",
+    "runtime~main.js.map": "/udemy-courses-react-monsters/static/js/runtime~main.8a0c872e.js.map",
+    "static/js/2.3df813ea.chunk.js": "/udemy-courses-react-monsters/static/js/2.3df813ea.chunk.js",
+    "static/js/2.3df813ea.chunk.js.map": "/udemy-courses-react-monsters/static/js/2.3df813ea.chunk.js.map",
+    "index.html": "/udemy-courses-react-monsters/index.html",
+    "precache-manifest.d5bfd080556e2349060a3808a5ed17d6.js": "/udemy-courses-react-monsters/precache-manifest.d5bfd080556e2349060a3808a5ed17d6.js",
+    "service-worker.js": "/udemy-courses-react-monsters/service-worker.js",
+    "static/css/main.a2cf1a21.chunk.css.map": "/udemy-courses-react-monsters/static/css/main.a2cf1a21.chunk.css.map"
+  }
+}
